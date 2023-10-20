@@ -34,9 +34,14 @@ N4na digital app for MOOCs
 
 # Multimedias
 - Silenciar 
+- [Configuración](#configuracion)
 - [Perfil del publicador actual](#perfil_publicador)
-- P
-
+- Me gusta
+- Buscar
+- Comentarios
+- Notificaciones
+- Compartir
+- Bookmark
 
 
 # <a name="perfil_publicador"></a>Perfil del publicador actual
@@ -44,9 +49,7 @@ N4na digital app for MOOCs
 - Siguiendo
 - Seguidores
 - Me gusta
-
-# Otros
-- Mensaje (ver chat)
+- [Chat](#chat)
 - Seguir
 - Lista de videos
 - Mis favoritos (son los favoritos del publicador?)
@@ -54,12 +57,21 @@ N4na digital app for MOOCs
 
 
 
-# Recomendaciones
+# <a name="chat"></a>Chat
+- Iniciar chat con un usuario
+- Conversación
 
 
+# Recomendaciones multimedias
+- Usuarios nuevos
+- Genre/Categorías
+- Basado en mi perfil y preferencias
 
 
+# <a name="configuracion"></a>Configuración
+- Privacidad
+- Compartir perfil
+- Cerrar sesión
 
 
-
-
+# Dashboard
